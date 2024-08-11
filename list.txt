@@ -1,4 +1,3 @@
-
 https://doublecounter.gg
 https://www.ikea.com/
 https://www.koegel.com/
@@ -107,14 +106,10 @@ https://icm.edu.pl/
 http://serialport.org/
 https://ubuntu.com/
 https://www.freebsd.org/
-https://archlinux.org/
-https://www.greenme.it/
-https://www.geopop.it/
-https://www.rinnovabili.it/
-https://www.linkiesta.it/
-https://www.designmag.it/
-https://www.repubblica.it/
-https://www.corriere.it/
-https://www.wired.it/
-https://www.ilfattoquotidiano.it/
-https://www.qemu.org/
+https://www.timescale.com/
+https://flyingtiger.com/
+https://www.museibologna.it/
+https://peters-teahouse.it/
+https://www.muji.eu/
+https://tper.it/
+https://thegraffitibench.com/
