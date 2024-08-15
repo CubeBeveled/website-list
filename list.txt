@@ -169,6 +169,10 @@ https://artix.cloud/
 https://xeh.sh/
 https://halex.gg/
 https://ztx.gd/
+https://xeh.sh/
+https://client.xeh.sh/
+https://panel.xeh.sh/
+https://status.xeh.sh/
 https://aternos.org/
 https://polarisnode.com/
 https://apexminecrafthosting.com/
@@ -199,3 +203,6 @@ https://hypixel.net/
 https://mcchampionship.com/
 https://thealtening.com/
 https://easymc.io/
+https://digiteco.it/
+https://www.brisighella.org/
+https://www.estathe.it/
