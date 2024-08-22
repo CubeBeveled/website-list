@@ -238,3 +238,5 @@ http://websdr.ewi.utwente.nl:8901/
 http://www.websdr.org/
 http://na5b.com/
 https://hwn.org/
+https://www.openwebrx.de/
+https://www.hamqsl.com/solar.html
